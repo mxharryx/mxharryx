@@ -4,7 +4,7 @@
 
 🦸‍♂️ Coding Avenger: Armed with my keyboard and coding prowess, I tackle challenges with the might of a superhero. Bugs stand no chance against my powers!
 
-🌟 Master of Heroic Experiences: Using Unity3D and Unreal Engine, I forge immersive realms that transport users into extraordinary adventures![Make your README](https://github.com/mxharryx/mxharryx/assets/57700846/a91ddb2e-b6d5-45ca-84e8-f30ed8b67cc9)
+🌟 Master of Heroic Experiences: Using Unity3D and Unreal Engine, I forge immersive realms that transport users into extraordinary adventures
 .
 
 🎮 Versatile Hero: Python, C, C++, HTML5, Java, JavaScript—my coding superpowers span multiple languages. I adapt to any mission with ease!
@@ -22,7 +22,7 @@ Together, we'll create coding marvels that leave a lasting impact.
 Excelsior! ✨
 
 #### ⚡️ Welcome to my Marvelous GitHub Universe!
-!(https://github.com/mxharryx/mxharryx/assets/57700846/a91ddb2e-b6d5-45ca-84e8-f30ed8b67cc9)
+![Make your README](https://github.com/mxharryx/mxharryx/assets/57700846/a91ddb2e-b6d5-45ca-84e8-f30ed8b67cc9)
 
 👋 Greetings, recruiters and fellow heroes! I am Mohammed Harris Jinnah Mohideen, a master of applied computing with a passion for creating marvels in the coding realm. Brace yourselves for an adventure like no other!
 
