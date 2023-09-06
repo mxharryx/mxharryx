@@ -1,34 +1,30 @@
-#### ⚡️ Welcome to my Marvelous GitHub Universe!
+#### ⚡️ Welcome to my Github! 
 ![Make your README](https://github.com/mxharryx/mxharryx/assets/57700846/a91ddb2e-b6d5-45ca-84e8-f30ed8b67cc9)
 
-👋 Greetings, recruiters and fellow heroes! I am Mohammed Harris Jinnah Mohideen, a master of applied computing with a passion for creating marvels in the coding realm. Brace yourselves for an adventure like no other!
+Hey there, I'm Harris – your friendly neighborhood tech enthusiast. Imagine me as the guy who makes computers and games do cool stuff. 🎮💻
 
-🦸‍♂️ Coding Avenger: Armed with my keyboard and coding prowess, I tackle challenges with the might of a superhero. Bugs stand no chance against my powers!
+Originally from India, I found my way to Toronto, where I pursued a Master's degree in Applied Computing at the University of Windsor. During my time there, I've dabbled in everything from crafting visually stunning interfaces to coding up snappy software and even conjuring up interactive gaming adventures.
 
-🌟 Master of Heroic Experiences: Using Unity3D and Unreal Engine, I forge immersive realms that transport users into extraordinary adventures.
+I've got a knack for making things work better, like making websites load faster, games more fun, and software more efficient. If you're into tech, you might say I'm your go-to person for all things coding and cloud computing.
 
-🎮 Versatile Hero: Python, C, C++, HTML5, Java, JavaScript—my coding superpowers span multiple languages. I adapt to any mission with ease!
-
-⚡️ Agile Defender: With Scrum and Kanban, I lead development teams like a shield-wielding warrior. Projects move swiftly under my vigilant guidance!
-
-🌌 Cosmic Innovator: Exploring the frontiers of 3D visualization, computer graphics, and video games, I push boundaries and create experiences that defy imagination. Prepare to witness true marvels!
-
-🎓 Academic Superpower: Equipped with a Master's in Applied Computing and a Bachelor's in Computer Science and Engineering, I'm ready to unleash my heroic skills in the professional world!
-
-🔑 Azure Assembler: Behold! I am Microsoft Certified: Azure Fundamentals, harnessing the power of the cloud like a true superhero.
-
-Together, we'll create coding marvels that leave a lasting impact.
-
-Excelsior! ✨
+When I'm not neck-deep in lines of code, I'm probably exploring the latest tech trends or cooking up some new gaming ideas. And hey, I'm always up for a chat about tech, so feel free to reach out – let's geek out together! 😄🚀
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mxharryx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammedharrisjinnah/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxharryx)](https://github.com/anuraghazra/github-readme-stats)
+## 💫 About Me:
+🔭 I’m currently working on: Exciting cloud development projects to enhance my skills and contribute to innovative solutions.<br>🌱 I’m currently learning: Advanced software development techniques and exploring the latest trends in game development.<br>👯 I’m looking to collaborate on: Open-source projects related to cloud computing, software development, or game development. Let's create something amazing together!<br>🤔 I’m looking for help with: Finding job opportunities and networking in the tech industry, particularly in Toronto.<br>💬 Ask me about: Anything related to cloud development, software development, or game development. I'm here to share my knowledge and experiences.<br>📫 How to reach me: Feel free to contact me through LinkedIn or drop me an email at md.harry.98@gmail.com.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I'm a tech enthusiast who loves exploring new programming languages and experimenting with game mechanics in my free time.
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_harryyyy_____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedharrisjinnah) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/catastrophicxponent) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mohammedharris_) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=for-the-badge&logo=unreal-engine&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=mxharryx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mxharryx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+----
+[![](https://visitcount.itsvg.in/api?id=mxharryx&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 <!--
