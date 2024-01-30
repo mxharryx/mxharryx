@@ -13,7 +13,7 @@ When I'm not neck-deep in lines of code, you'll find me exploring the latest tec
 👯 Looking to collaborate on: Open-source projects related to cloud computing, software development, or game development. Let's create something amazing together!<br>
 🤔 Looking for help with: Finding job opportunities and networking in the tech industry, particularly in Toronto.<br>
 💬 Ask me about: Anything related to cloud development, software development, or game development. I'm here to share my knowledge and experiences.<br>
-📫 How to reach me: Feel free to contact me through LinkedIn or drop me an email at md.harry.98@gmail.com.<br>
+📫 How to reach me: Feel free to contact me through LinkedIn or drop me an email at mohammedharrisjinnah@gmail.com.<br>
 😄 Pronouns: He/Him<br>
 ⚡ Fun fact: I'm a tech enthusiast who loves exploring new programming languages and experimenting with game mechanics in my free time.<br>
 
