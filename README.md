@@ -1,5 +1,6 @@
 # ⚡️ Welcome to my Github! 
-![Make your README](https://github.com/mxharryx/mxharryx/assets/57700846/a91ddb2e-b6d5-45ca-84e8-f30ed8b67cc9)
+![Make your README](https://github.com/mxharryx/mxharryx/assets/57700846/630700ce-be6d-4541-be47-aad926661812)
+
 
 Hey there! I'm Harris – your friendly neighborhood tech enthusiast. Originally from India, I now call Toronto home after pursuing a Master's degree in Applied Computing at the University of Windsor. From crafting visually stunning interfaces to coding up snappy software and conjuring up interactive gaming adventures, I've dabbled in it all.
 
