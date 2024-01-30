@@ -19,6 +19,7 @@ When I'm not neck-deep in lines of code, you'll find me exploring the latest tec
 ⚡ Fun fact: I'm a tech enthusiast who loves exploring new programming languages and experimenting with game mechanics in my free time.<br>
 
 ## 📝 Recent Blog Posts: 
+- [Building a Public Load Balancer in Azure: Step-by-Step Guide](https://medium.com/@mohammedharrisjinnah/building-a-public-load-balancer-in-azure-step-by-step-guide-7fc855fa639e) 
 - [Securing Your Cloud: Filtering Network Traffic with Network Security Groups in Azure](https://medium.com/@mohammedharrisjinnah/securing-your-cloud-filtering-network-traffic-with-network-security-groups-in-azure-3b4ffe98e3e8)
 - [Getting Started: Creating Azure Virtual Machines](https://medium.com/@mohammedharrisjinnah/getting-started-creating-azure-virtual-machines-d9241c6a3121)
 
