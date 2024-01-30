@@ -18,7 +18,6 @@ When I'm not neck-deep in lines of code, you'll find me exploring the latest tec
 😄 Pronouns: He/Him<br>
 ⚡ Fun fact: I'm a tech enthusiast who loves exploring new programming languages and experimenting with game mechanics in my free time.<br>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_harryyyy_____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedharrisjinnah) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/catastrophicxponent) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mohammedharris_) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mohammedharris) 
 
