@@ -1,17 +1,21 @@
 # ⚡️ Welcome to my Github! 
 ![Make your README](https://github.com/mxharryx/mxharryx/assets/57700846/a91ddb2e-b6d5-45ca-84e8-f30ed8b67cc9)
 
-Hey there, I'm Harris – your friendly neighborhood tech enthusiast. Imagine me as the guy who makes computers and games do cool stuff. 🎮💻
+Hey there! I'm Harris – your friendly neighborhood tech enthusiast. Originally from India, I now call Toronto home after pursuing a Master's degree in Applied Computing at the University of Windsor. From crafting visually stunning interfaces to coding up snappy software and conjuring up interactive gaming adventures, I've dabbled in it all.
 
-Originally from India, I found my way to Toronto, where I pursued a Master's degree in Applied Computing at the University of Windsor. During my time there, I've dabbled in everything from crafting visually stunning interfaces to coding up snappy software and even conjuring up interactive gaming adventures.
+I've got a knack for making things work better – whether it's making websites load faster, games more fun, or software more efficient. If you're into tech, you might say I'm your go-to person for all things coding and cloud computing.
 
-I've got a knack for making things work better, like making websites load faster, games more fun, and software more efficient. If you're into tech, you might say I'm your go-to person for all things coding and cloud computing.
+When I'm not neck-deep in lines of code, you'll find me exploring the latest tech trends or cooking up new gaming ideas. And hey, I'm always up for a chat about tech, so feel free to reach out – let's geek out together! 😄🚀
 
-When I'm not neck-deep in lines of code, I'm probably exploring the latest tech trends or cooking up some new gaming ideas. And hey, I'm always up for a chat about tech, so feel free to reach out – let's geek out together! 😄🚀
-
-
-## 💫 About Me:
-🔭 I’m currently working on: Exciting cloud development projects to enhance my skills and contribute to innovative solutions.<br>🌱 I’m currently learning: Advanced software development techniques and exploring the latest trends in game development.<br>👯 I’m looking to collaborate on: Open-source projects related to cloud computing, software development, or game development. Let's create something amazing together!<br>🤔 I’m looking for help with: Finding job opportunities and networking in the tech industry, particularly in Toronto.<br>💬 Ask me about: Anything related to cloud development, software development, or game development. I'm here to share my knowledge and experiences.<br>📫 How to reach me: Feel free to contact me through LinkedIn or drop me an email at md.harry.98@gmail.com.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I'm a tech enthusiast who loves exploring new programming languages and experimenting with game mechanics in my free time.
+💫 About Me
+🔭 Currently working on: Exciting cloud development projects to enhance my skills and contribute to innovative solutions.
+🌱 Currently learning: Advanced software development techniques and exploring the latest trends in game development.
+👯 Looking to collaborate on: Open-source projects related to cloud computing, software development, or game development. Let's create something amazing together!
+🤔 Looking for help with: Finding job opportunities and networking in the tech industry, particularly in Toronto.
+💬 Ask me about: Anything related to cloud development, software development, or game development. I'm here to share my knowledge and experiences.
+📫 How to reach me: Feel free to contact me through LinkedIn or drop me an email at md.harry.98@gmail.com.
+😄 Pronouns: He/Him
+⚡ Fun fact: I'm a tech enthusiast who loves exploring new programming languages and experimenting with game mechanics in my free time.
 
 
 ## 🌐 Socials:
