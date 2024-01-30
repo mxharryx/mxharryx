@@ -7,15 +7,15 @@ I've got a knack for making things work better – whether it's making websites 
 
 When I'm not neck-deep in lines of code, you'll find me exploring the latest tech trends or cooking up new gaming ideas. And hey, I'm always up for a chat about tech, so feel free to reach out – let's geek out together! 😄🚀
 
-💫 About Me
-🔭 Currently working on: Exciting cloud development projects to enhance my skills and contribute to innovative solutions.
-🌱 Currently learning: Advanced software development techniques and exploring the latest trends in game development.
-👯 Looking to collaborate on: Open-source projects related to cloud computing, software development, or game development. Let's create something amazing together!
-🤔 Looking for help with: Finding job opportunities and networking in the tech industry, particularly in Toronto.
-💬 Ask me about: Anything related to cloud development, software development, or game development. I'm here to share my knowledge and experiences.
-📫 How to reach me: Feel free to contact me through LinkedIn or drop me an email at md.harry.98@gmail.com.
-😄 Pronouns: He/Him
-⚡ Fun fact: I'm a tech enthusiast who loves exploring new programming languages and experimenting with game mechanics in my free time.
+💫 About Me<br>
+🔭 Currently working on: Exciting cloud development projects to enhance my skills and contribute to innovative solutions.<br>
+🌱 Currently learning: Advanced software development techniques and exploring the latest trends in game development.<br>
+👯 Looking to collaborate on: Open-source projects related to cloud computing, software development, or game development. Let's create something amazing together!<br>
+🤔 Looking for help with: Finding job opportunities and networking in the tech industry, particularly in Toronto.<br>
+💬 Ask me about: Anything related to cloud development, software development, or game development. I'm here to share my knowledge and experiences.<br>
+📫 How to reach me: Feel free to contact me through LinkedIn or drop me an email at md.harry.98@gmail.com.<br>
+😄 Pronouns: He/Him<br>
+⚡ Fun fact: I'm a tech enthusiast who loves exploring new programming languages and experimenting with game mechanics in my free time.<br>
 
 
 ## 🌐 Socials:
