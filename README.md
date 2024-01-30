@@ -19,8 +19,8 @@ When I'm not neck-deep in lines of code, you'll find me exploring the latest tec
 ⚡ Fun fact: I'm a tech enthusiast who loves exploring new programming languages and experimenting with game mechanics in my free time.<br>
 
 ## 📝 Recent Blog Posts: 
-- [Getting Started: Creating Azure Virtual Machines](https://medium.com/@mohammedharrisjinnah/getting-started-creating-azure-virtual-machines-d9241c6a3121)
 - [Securing Your Cloud: Filtering Network Traffic with Network Security Groups in Azure](https://medium.com/@mohammedharrisjinnah/securing-your-cloud-filtering-network-traffic-with-network-security-groups-in-azure-3b4ffe98e3e8)
+- [Getting Started: Creating Azure Virtual Machines](https://medium.com/@mohammedharrisjinnah/getting-started-creating-azure-virtual-machines-d9241c6a3121)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_harryyyy_____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedharrisjinnah) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/catastrophicxponent) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mohammedharris_) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohammedharrisjinnah) 
