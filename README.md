@@ -35,7 +35,6 @@ I'm constantly exploring new advancements in cloud computing, DevOps practices, 
 
 
 ## 💻 Tech Stack:
-Ranked in order of proficiency (Self)
 
 ### Cloud Platforms & Services
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
