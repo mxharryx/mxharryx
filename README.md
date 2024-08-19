@@ -30,7 +30,8 @@ I'm constantly exploring new advancements in cloud computing, DevOps practices, 
 - [Getting Started: Creating Azure Virtual Machines](https://medium.com/@mohammedharrisjinnah/getting-started-creating-azure-virtual-machines-d9241c6a3121)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedharrisjinnah) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/catastrophicxponent) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohammedharrisjinnah) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedharrisjinnah) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mo_Harry_) 
+ [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/catastrophicxponent) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohammedharrisjinnah) 
 
 
 ## 💻 Tech Stack:
